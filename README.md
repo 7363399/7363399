@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CHINAPJUN
+- 👋 Hi, I’m Jun
 
 <!---
 7363399/7363399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
